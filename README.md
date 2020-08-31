@@ -6,9 +6,6 @@ A deep neural network by using a CNN based model and incorporating an attention 
 
 We propose a deep-learning based approach, called DeepIP (Deep learning based Incident Prioritization), to prioritizing incidents by identifying incidental incidents. `DeepTIP.ipynb`
 
-<br/></br>
-![Architecture](Overviewpng.png) </br>
-<center>The overview of the network </center>
 
 ## Compared Approaches
 
